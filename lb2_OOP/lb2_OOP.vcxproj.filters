@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files"><UniqueIdentifier>{4A0626E1-44F7-4CA0-85BA-C1982C737306}</UniqueIdentifier><Extensions>cpp;c;cc;cxx</Extensions></Filter>
+    <Filter Include="Header Files"><UniqueIdentifier>{A624E25D-CBE6-410D-8F5A-6778121BD206}</UniqueIdentifier><Extensions>h;hpp;hxx</Extensions></Filter>
+  </ItemGroup>
+  <ItemGroup><ClInclude Include="Angle.h"><Filter>Header Files</Filter></ClInclude></ItemGroup>
+  <ItemGroup><ClCompile Include="Angle.cpp"><Filter>Source Files</Filter></ClCompile><ClCompile Include="main.cpp"><Filter>Source Files</Filter></ClCompile></ItemGroup>
+</Project>
