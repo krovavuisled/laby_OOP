@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64"/>
+  </Configurations>
+  <Project Path="lb6_OOP/lb6_OOP.vcxproj" Id="9393d6a4-95e2-531c-8ea2-bb2818f4d44e"/>
+  <Project Path="Angle/Angle.vcxproj" Id="8a1411a5-123f-566c-beb5-4dfe7b547032"/>
+</Solution>
