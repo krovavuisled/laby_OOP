@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Project xmlns:ns0="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <ns0:ItemGroup>
+    <ns0:Filter Include="Source Files">
+      <ns0:UniqueIdentifier>{31F5FC29-E80C-5D04-8E96-490CDCCD1C01}</ns0:UniqueIdentifier>
+      <ns0:Extensions>cpp;c;cc;cxx</ns0:Extensions>
+    </ns0:Filter>
+    <ns0:Filter Include="Header Files">
+      <ns0:UniqueIdentifier>{3CEACF2C-6180-530B-B05B-57BCE1EAB8E8}</ns0:UniqueIdentifier>
+      <ns0:Extensions>h;hpp;hxx</ns0:Extensions>
+    </ns0:Filter>
+  </ns0:ItemGroup>
+  <ns0:ItemGroup>
+    <ns0:ClCompile Include="Angle.cpp">
+      <ns0:Filter>Source Files</ns0:Filter>
+    </ns0:ClCompile>
+  </ns0:ItemGroup>
+  <ns0:ItemGroup>
+    <ns0:ClInclude Include="Angle.h">
+      <ns0:Filter>Header Files</ns0:Filter>
+    </ns0:ClInclude>
+  </ns0:ItemGroup>
+</ns0:Project>

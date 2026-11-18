@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64"/>
+  </Configurations>
+  <Project Path="lb5_OOP/lb5_OOP.vcxproj" Id="8104f054-9361-56da-8d04-b38d4ca058ec"/>
+  <Project Path="AngleStatic/AngleStatic.vcxproj" Id="31b1b9f8-4820-5327-8543-778118fa152a"/>
+</Solution>

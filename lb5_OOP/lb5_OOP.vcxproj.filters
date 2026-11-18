@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Project xmlns:ns0="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <ns0:ItemGroup>
+    <ns0:Filter Include="Source Files">
+      <ns0:UniqueIdentifier>{7AA3061A-D6F1-5302-B7D5-409A5FC69E00}</ns0:UniqueIdentifier>
+      <ns0:Extensions>cpp;c;cc;cxx</ns0:Extensions>
+    </ns0:Filter>
+    <ns0:Filter Include="Header Files">
+      <ns0:UniqueIdentifier>{2FD7D815-2774-53D0-9ABB-6A7D91CC71A4}</ns0:UniqueIdentifier>
+      <ns0:Extensions>h;hpp;hxx</ns0:Extensions>
+    </ns0:Filter>
+  </ns0:ItemGroup>
+  <ns0:ItemGroup>
+    <ns0:ClCompile Include="main.cpp">
+      <ns0:Filter>Source Files</ns0:Filter>
+    </ns0:ClCompile>
+  </ns0:ItemGroup>
+</ns0:Project>
